@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_JadenCase", "2_JadenCase\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_Credit Card Mask", "3_Credit Card Mask\3_Credit Card Mask.csproj", "{E5F706CA-3FC0-4AFB-8140-6DDB00F42577}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_HighAndLow", "4_HighAndLow\4_HighAndLow.csproj", "{B586218B-41DB-4486-9B45-DF1D96170FA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_HighAndLow", "4_HighAndLow\4_HighAndLow.csproj", "{B586218B-41DB-4486-9B45-DF1D96170FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_XO", "5_XO\5_XO.csproj", "{898385E4-5335-401A-B136-796EB862CB2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B586218B-41DB-4486-9B45-DF1D96170FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B586218B-41DB-4486-9B45-DF1D96170FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B586218B-41DB-4486-9B45-DF1D96170FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898385E4-5335-401A-B136-796EB862CB2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898385E4-5335-401A-B136-796EB862CB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898385E4-5335-401A-B136-796EB862CB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898385E4-5335-401A-B136-796EB862CB2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
